@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel Fernandes, a computer science student.
 
 - 🔭 I’m currently working on Web projects
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning ReactNative
 - 📫 How to reach me: gabrielfvp32015@gmail.com
 
 <div align="center">
